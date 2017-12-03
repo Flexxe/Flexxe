@@ -1,6 +1,12 @@
 .div {
 
   .jumptext {
-    box-model=12
-    text-align=center
+Text-align:center;
   }
+
+  .smallboxmodel {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
